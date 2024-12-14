@@ -1,0 +1,274 @@
+
+Customer Name: 2
+Order Details:
+Product: undefined, Quantity: 1, Price: $85
+Total Price: $85
+----------------------------------
+
+Customer Name: ee
+Order Details:
+Product: undefined, Quantity: 1, Price: $90
+Total Price: $90
+----------------------------------
+
+Customer Name: ee
+Order Details:
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $90
+----------------------------------
+
+Customer Name: ee
+Order Details:
+Product: iPhone 15 Pro, Quantity: 1, Price: $1000
+Total Price: $1000
+----------------------------------
+
+Customer Name: sai
+Order Details:
+Product: iPhone 15 Pro, Quantity: 1, Price: $1000
+Product: Samsung Galaxy S22, Quantity: 1, Price: $850
+Total Price: $1850
+----------------------------------
+
+Customer Name: shanmukha
+Order Details:
+Product: iPhone 15 Pro, Quantity: 1, Price: $1000
+Total Price: $1000
+----------------------------------
+
+Customer Name: deeksha
+Order Details:
+Product: Samsung Galaxy S22, Quantity: 1, Price: $850
+Total Price: $850
+----------------------------------
+
+Customer Name: ram
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Product: iPhone 14 Pro, Quantity: 1, Price: $800
+Total Price: $975
+----------------------------------
+
+Customer Name: shreya
+Order Details:
+Product: Apple iPad Air, Quantity: 1, Price: $400
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Product: Samsung Galaxy S22, Quantity: 1, Price: $850
+Total Price: $1425
+----------------------------------
+
+Customer Name: hfgh
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: Apple iPad Air, Quantity: 2, Price: $400
+Product: Oneplus 12r, Quantity: 1, Price: $700
+Product: Google Pixel 6, Quantity: 1, Price: $700
+Product: Samsung Galaxy S22, Quantity: 1, Price: $850
+Total Price: $3135
+----------------------------------
+
+Customer Name: hfgh
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: Apple iPad Air, Quantity: 2, Price: $400
+Product: Oneplus 12r, Quantity: 1, Price: $700
+Product: Google Pixel 6, Quantity: 1, Price: $700
+Product: Samsung Galaxy S22, Quantity: 1, Price: $850
+Total Price: $3135
+----------------------------------
+
+Customer Name: ythrw
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Total Price: $85
+----------------------------------
+
+Customer Name: dfgdfs
+Order Details:
+
+Total Price: $0
+----------------------------------
+
+Customer Name: shany
+Order Details:
+Product: Apple iPad Air, Quantity: 1, Price: $400
+Product: iPhone 14 Pro, Quantity: 1, Price: $800
+Product: iPhone 15 Pro, Quantity: 1, Price: $1000
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $2290
+----------------------------------
+
+Customer Name: fdgcghdfs
+Order Details:
+Product: Apple iPad Air, Quantity: 1, Price: $400
+Total Price: $400
+----------------------------------
+
+Customer Name: dsrtrtdg
+Order Details:
+Product: Apple iPad Air, Quantity: 2, Price: $400
+Product: iPhone 14 Pro, Quantity: 2, Price: $800
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Total Price: $2485
+----------------------------------
+
+Customer Name: abi
+Order Details:
+Product: Apple iPad Air, Quantity: 2, Price: $400
+Product: iPhone 14 Pro, Quantity: 3, Price: $800
+Product: Wireless Headphone, Quantity: 2, Price: $85
+Total Price: $3370
+----------------------------------
+
+Customer Name: ytrw
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $175
+----------------------------------
+
+Customer Name: gdfsg
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $175
+----------------------------------
+
+Customer Name: gdfsg
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $175
+----------------------------------
+
+Customer Name: gdfsg
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $175
+----------------------------------
+
+Customer Name: hgfhg
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $175
+----------------------------------
+
+Customer Name: hgfhg
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $175
+----------------------------------
+
+Customer Name: hgfhg
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $175
+----------------------------------
+
+Customer Name: hgfhg
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $175
+----------------------------------
+
+Customer Name: dfg
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $175
+----------------------------------
+
+Customer Name: gfdsg
+Order Details:
+Product: Wireless Headphone, Quantity: 2, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $260
+----------------------------------
+
+Customer Name: gfh
+Order Details:
+Product: Wireless Headphone, Quantity: 2, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $260
+----------------------------------
+
+Customer Name: rter
+Order Details:
+Product: Wireless Headphone, Quantity: 2, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $260
+----------------------------------
+
+Customer Name: rter
+Order Details:
+Product: Wireless Headphone, Quantity: 2, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $260
+----------------------------------
+
+Customer Name: rter
+Order Details:
+Product: Wireless Headphone, Quantity: 2, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $260
+----------------------------------
+
+Customer Name: gdfg
+Order Details:
+Product: Wireless Headphone, Quantity: 2, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $260
+----------------------------------
+
+Customer Name: gdfg
+Order Details:
+Product: Wireless Headphone, Quantity: 2, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $260
+----------------------------------
+
+Customer Name: gdfg
+Order Details:
+Product: Wireless Headphone, Quantity: 2, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $260
+----------------------------------
+
+Customer Name: gdfg
+Order Details:
+Product: Wireless Headphone, Quantity: 2, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Total Price: $260
+----------------------------------
+
+Customer Name: tyrty
+Order Details:
+Product: Wireless Headphone, Quantity: 3, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Product: Apple iPad Air, Quantity: 1, Price: $400
+Total Price: $745
+----------------------------------
+
+Customer Name: cghd
+Order Details:
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Product: iPhone 15 Pro, Quantity: 1, Price: $1000
+Total Price: $1175
+----------------------------------
+
+Customer Name: hfgsh
+Order Details:
+Product: DeepCool Air Cooler, Quantity: 1, Price: $90
+Product: Apple iPad Air, Quantity: 1, Price: $400
+Product: iPhone 14 Pro, Quantity: 1, Price: $800
+Product: Wireless Headphone, Quantity: 1, Price: $85
+Total Price: $1375
+----------------------------------
